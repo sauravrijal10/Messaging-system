@@ -47,3 +47,35 @@ h3{
 .friend{
     font-size:20px;
 }
+.messagefield{
+    width: 98%;
+    height: 98%;
+    border: 2px black;
+}
+.send{
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    height: 10%;
+}
+.messagebox{
+    width: 80%;
+}
+.field{
+    border: 2px black;
+    height: 87%;
+    margin-bottom: 0 px;
+    margin-top: 5px;
+}
+.hr1{
+    margin-bottom: 10px;
+}
+.logout{
+    margin-left:80 px;
+}
+#textfield{
+    width: 80%;
+    overflow-y:auto;
+}
